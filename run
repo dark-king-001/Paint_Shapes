@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#this execttion scheme is from https://github.com/openjfx/samples/blob/master/HelloFX/CLI/README.md
+#replace PATH_TO_FX with the path of your javaFX/lib directory
+
+Filename="PaintApp"
+
+javac --module-path $JAVA_FX/lib --add-modules javafx.controls,javafx.fxml $Filename".java"
+
+java --module-path $JAVA_FX/lib --add-modules javafx.controls,javafx.fxml $Filename
+
+rm -rf *.class
