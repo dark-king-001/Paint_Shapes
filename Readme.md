@@ -74,9 +74,9 @@ Note - run script is a bash file. in windows try executing the commands manually
 
 - **Uml Diagram**
   ![App Startup](https://github.com/dark-king-001/Paint_Shapes/blob/main/SnapShots/uml.jpg)
-- **Running Script**
+- **App startup**
   ![App Startup](https://github.com/dark-king-001/Paint_Shapes/blob/main/SnapShots/App_Startup.png)
 - **Circles**
-  ![App Startup](https://github.com/dark-king-001/Paint_Shapes/blob/main/SnapShots/circles.png)
+  ![App Startup](https://github.com/dark-king-001/Paint_Shapes/blob/main/SnapShots/Circles.png)
 - **Squares**
   ![App Startup](https://github.com/dark-king-001/Paint_Shapes/blob/main/SnapShots/Squares.png)
