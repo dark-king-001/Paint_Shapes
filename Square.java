@@ -1,12 +1,5 @@
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
-
-/**
- * The Square class for use in assignment 8. Feel free to adapt to suit
- * your needs.
- *
- * @author Sam Scott
- */
 public class Square extends GeometricObject {
 
     private double size;
