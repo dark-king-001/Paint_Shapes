@@ -1,11 +1,5 @@
 import javafx.scene.paint.Color;
 
-/**
- * The parent class for Circle and Rectangle. Comments removed for display in
- * class. Constructors removed because they require a separate discussion.
- *
- * @author Sam Scott
- */
 public abstract class GeometricObject implements Drawable {
 
     private double x, y;
