@@ -13,12 +13,6 @@ import java.util.ArrayList;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.input.MouseButton;
 
-/**
- * Expand this FXGUITemplate into your own Paint app. Don't forget to
- * comment according to course commenting standards.
- * 
- * @author YOUR NAME
- */
 public class PaintApp extends Application {
 
     // TODO: Instance Variables for View Components and Model
